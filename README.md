@@ -138,7 +138,7 @@ The workflow is available for download and reuse by the community at the followi
 Shows the countries included in the tree cover gain data
 
 <p align="center">
-  <img src="Insight/Geospatial_View.png" alt="Sample Image" width="1200"/>
+  <img src="Insight/Geospatial_View.png" alt="Sample Image" width="800"/>
 </p>
 <p align="center">
   <em>Figure 13: Countries/Areas Covered by the Data Set.</em>
@@ -148,7 +148,7 @@ Shows the countries included in the tree cover gain data
 Displays the tree cover gain area (in hectares) for each country from 2000 to 2020.
 
 <p align="center">
-  <img src="Insight/Geospatial_View_Static.png" alt="Sample Image" width="1200"/>
+  <img src="Insight/Geospatial_View_Static.png" alt="Sample Image" width="800"/>
 </p>
 <p align="center">
   <em>Figure 14: Global Tree Cover Gain Area.</em>
