@@ -27,6 +27,13 @@ The geospatial analysis workflow for this project was built using KINME (https:/
 
 ![image](Insight/KNIME_workflow.png)
 
+<p align="center">
+  <img src="Insight/KNIME_workflow.png" alt="Sample Image" width="500"/>
+</p>
+<p align="center">
+  <em>Figure 1: This is a sample image.</em>
+</p>
+
 ### Step by Step Creation
 - **Data Loading:** The tree cover gain data was downloaded from Global Forest Watch and imported into the KINME workflow.
   - **CSV Reader:** This node reads data from a CSV file and loads it into the KNIME platform. It's typically the first step in a workflow that involves data processing.
