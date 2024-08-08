@@ -41,7 +41,7 @@ The geospatial analysis workflow for this project was built using KINME (https:/
 ![image](Insight/start.png)
 
   - **OSM Boundary Map:** This node retrieves boundary data (such as country or region borders) from OpenStreetMap (OSM). It's used to get geographical boundaries for further spatial analysis.
-  - 
+
 ![image](Insight/osm.png)
     
   - **Loop End:** This node marks the end of the loop initiated by the "Table Row to Variable Loop Start" node. It collects the results of each iteration and outputs them as a single table.
@@ -64,7 +64,7 @@ The geospatial analysis workflow for this project was built using KINME (https:/
 ![image](Insight/static1.png)
 
   - **Geospatial View Static:** This node creates a static (non-interactive) map view of the geospatial data. It's useful for generating map images for reports or presentations.
-  - 
+
 ![image](Insight/static2.png)
 
 The workflow is available for download and reuse by the community at the following link: https://hub.knime.com/xintong/spaces/Public/geospatial_analysis~BieNOChHcBR6kQJO/current-state
