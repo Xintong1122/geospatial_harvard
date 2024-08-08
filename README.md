@@ -25,13 +25,11 @@ When using this data, please cite it as follows:
 ## KINME Workflow
 The geospatial analysis workflow for this project was built using KINME (https://www.knime.com/), integrating the full process of data loading, processing, analysis, and visualization. 
 
-![image](Insight/KNIME_workflow.png)
-
 <p align="center">
-  <img src="Insight/KNIME_workflow.png" alt="Sample Image" width="500"/>
+  <img src="Insight/KNIME_workflow.png" alt="Sample Image" width="800"/>
 </p>
 <p align="center">
-  <em>Figure 1: This is a sample image.</em>
+  <em>Figure 1: KINME Workflow Chart.</em>
 </p>
 
 ### Step by Step Creation
@@ -81,12 +79,22 @@ The workflow is available for download and reuse by the community at the followi
 - **Country Distribution Map:**
 Shows the countries included in the tree cover gain data
 
-![image](Insight/Geospatial_View.png)
+<p align="center">
+  <img src="Insight/Geospatial_View.png" alt="Sample Image" width="1200"/>
+</p>
+<p align="center">
+  <em>Figure 1: Countries/Areas Covered by the Data Set.</em>
+</p>
 
 - **Tree Cover Gain Area Map:** 
 Displays the tree cover gain area (in hectares) for each country from 2000 to 2020.
 
-![image](Insight/Geospatial_View_Static.png)
+<p align="center">
+  <img src="Insight/Geospatial_View_Static" alt="Sample Image" width="1200"/>
+</p>
+<p align="center">
+  <em>Figure 1: Global Tree Cover Gain Area.</em>
+</p>
 
 ## Future Research Directions
 This research can be further expanded to better serve the theme "Create a Data Science Workflow in the Metaverse of DePin: Tokeneconomy and Geospatial Analysis for Social Good and Sustainability." Potential directions include:
