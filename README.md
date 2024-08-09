@@ -10,6 +10,8 @@ This project aims to visualize and analyze global tree cover gain from 2000 to 2
 
 - **Metaverse and Social Good:** In the metaverse, geospatial data and virtual simulations can be used to raise awareness, educate, and engage communities in environmental conservation efforts. Virtual representations of forest cover data can serve as powerful tools in advocating for policies that promote sustainability and responsible land management.
 
+This project leverages geospatial analysis to explore tree cover dynamics, which are directly relevant to sustainability goals. The integration of these insights into decentralized economies (DePin) and the metaverse creates opportunities for innovative solutions and broader public engagement in environmental conservation efforts.
+
 ## Data Description
 
 ### Meta Data Infomation
