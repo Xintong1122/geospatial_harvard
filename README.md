@@ -38,8 +38,8 @@ When using this data, please cite it as follows:
 - Potapov, P., Hansen, M.C., Pickens, A., Hernandez-Serna, A., Tyukavina, A., Turubanova, S., Zalles, V., Li, X., Khan, A., Stolle, F., Harris, N., Song, X-P., Baggett, A., Kommareddy, I., and Kommareddy, A. 2022. The Global 2000-2020 Land Cover and Land Use Change Dataset Derived From the Landsat Archive: First Results. Frontiers in Remote Sensing, 13, April 2022. https://doi.org/10.3389/frsen.2022.856903
 
 
-## KINME Workflow
-The geospatial analysis workflow for this project was built using KINME (https://www.knime.com/), integrating the full process of data loading, processing, analysis, and visualization. 
+## KNIME Workflow
+The geospatial analysis workflow for this project was built using KNIME (https://www.knime.com/), integrating the full process of data loading, processing, analysis, and visualization. 
 
 <p align="center">
   <img src="Insight/KNIME_workflow.png" alt="Sample Image" width="800"/>
