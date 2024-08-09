@@ -12,10 +12,18 @@ This project aims to visualize and analyze global tree cover gain from 2000 to 2
 
 This project leverages geospatial analysis to explore tree cover dynamics, which are directly relevant to sustainability goals. The integration of these insights into decentralized economies (DePin) and the metaverse creates opportunities for innovative solutions and broader public engagement in environmental conservation efforts.
 
+<p align="center">
+  <img src="Insight/Flowcharts.png" alt="Sample Image" width="800"/>
+</p>
+<p align="center">
+  <em>Figure 1: Flowchart of the project.</em>
+</p>
+
 ## Data Description
 
 ### Meta Data Infomation
 The dataset used in this study was developed by the Global Land Analysis & Discovery (GLAD) lab at the University of Maryland. It utilizes NASA GEDI lidar measurements and Landsat time-series data to assess global tree cover gain from 2000 to 2020. The data has a resolution of 30 × 30 meters, providing detailed information on a global scale.
+Data Sources from Global Forest Watch: https://www.globalforestwatch.org/dashboards/global/
 
 ### Data Dictionary
 | Variable Name | Description | Frecuency | Unit | Type |
@@ -37,7 +45,7 @@ The geospatial analysis workflow for this project was built using KINME (https:/
   <img src="Insight/KNIME_workflow.png" alt="Sample Image" width="800"/>
 </p>
 <p align="center">
-  <em>Figure 1: KINME Workflow Chart.</em>
+  <em>Figure 2: KINME Workflow Chart.</em>
 </p>
 
 ### Step by Step Creation
@@ -48,14 +56,14 @@ The geospatial analysis workflow for this project was built using KINME (https:/
   <img src="Insight/load1.png" alt="Sample Image" width="500"/>
 </p>
 <p align="center">
-  <em>Figure 2: CSV Reader Settings.</em>
+  <em>Figure 3: CSV Reader Settings.</em>
 </p>
 
 <p align="center">
   <img src="Insight/load2.png" alt="Sample Image" width="500"/>
 </p>
 <p align="center">
-  <em>Figure 3: CSV Reader Settings (Limit Rows to Test).</em>
+  <em>Figure 4: CSV Reader Settings (Limit Rows to Test).</em>
 </p>
 
 
@@ -66,7 +74,7 @@ The geospatial analysis workflow for this project was built using KINME (https:/
   <img src="Insight/start.png" alt="Sample Image" width="500"/>
 </p>
 <p align="center">
-  <em>Figure 4: Table Row to Variable Loop Start Setting .</em>
+  <em>Figure 5: Table Row to Variable Loop Start Setting .</em>
 </p>
 
   - **OSM Boundary Map:** This node retrieves boundary data (such as country or region borders) from OpenStreetMap (OSM). It's used to get geographical boundaries for further spatial analysis.
@@ -75,7 +83,7 @@ The geospatial analysis workflow for this project was built using KINME (https:/
   <img src="Insight/osm.png" alt="Sample Image" width="500"/>
 </p>
 <p align="center">
-  <em>Figure 5: OSM Boundary Map Setting .</em>
+  <em>Figure 6: OSM Boundary Map Setting .</em>
 </p>
     
   - **Loop End:** This node marks the end of the loop initiated by the "Table Row to Variable Loop Start" node. It collects the results of each iteration and outputs them as a single table.
@@ -84,7 +92,7 @@ The geospatial analysis workflow for this project was built using KINME (https:/
   <img src="Insight/end.png" alt="Sample Image" width="500"/>
 </p>
 <p align="center">
-  <em>Figure 6: Loop End Setting .</em>
+  <em>Figure 7: Loop End Setting .</em>
 </p>
 
   - **Projection:** This node changes the coordinate system of the geospatial data. It is typically used to ensure that all spatial data uses a consistent coordinate system for analysis.
@@ -93,7 +101,7 @@ The geospatial analysis workflow for this project was built using KINME (https:/
   <img src="Insight/projection.png" alt="Sample Image" width="500"/>
 </p>
 <p align="center">
-  <em>Figure 7: Projection Setting .</em>
+  <em>Figure 8: Projection Setting .</em>
 </p>
 
   - **Joiner:** This node merges or joins two datasets based on a common key (like an ID or geographic coordinate). It's often used to combine geospatial data with other data types.
@@ -102,21 +110,21 @@ The geospatial analysis workflow for this project was built using KINME (https:/
   <img src="Insight/joiner1.png" alt="Sample Image" width="500"/>
 </p>
 <p align="center">
-  <em>Figure 8: Joiner Setting (part1) .</em>
+  <em>Figure 9: Joiner Setting (part1) .</em>
 </p>
 
 <p align="center">
   <img src="Insight/joiner2.png" alt="Sample Image" width="500"/>
 </p>
 <p align="center">
-  <em>Figure 9: Joiner Setting (part2) .</em>
+  <em>Figure 10: Joiner Setting (part2) .</em>
 </p>
 
 <p align="center">
   <img src="Insight/joiner3.png" alt="Sample Image" width="500"/>
 </p>
 <p align="center">
-  <em>Figure 10: Joiner Setting (part3) .</em>
+  <em>Figure 11: Joiner Setting (part3) .</em>
 </p>
 
 - **Visualization:** Maps were generated showing the distribution of countries and tree cover gain areas in hectares for each country.
@@ -127,14 +135,14 @@ The geospatial analysis workflow for this project was built using KINME (https:/
   <img src="Insight/static1.png" alt="Sample Image" width="500"/>
 </p>
 <p align="center">
-  <em>Figure 11: Geospatial View Static Setting (part1) .</em>
+  <em>Figure 12: Geospatial View Static Setting (part1) .</em>
 </p>
 
 <p align="center">
   <img src="Insight/static2.png" alt="Sample Image" width="500"/>
 </p>
 <p align="center">
-  <em>Figure 12: Geospatial View Static Setting (part2) .</em>
+  <em>Figure 13: Geospatial View Static Setting (part2) .</em>
 </p>
 
 
@@ -149,7 +157,7 @@ Shows the countries included in the tree cover gain data
   <img src="Insight/Geospatial_View.png" alt="Sample Image" width="800"/>
 </p>
 <p align="center">
-  <em>Figure 13: Countries/Areas Covered by the Data Set.</em>
+  <em>Figure 14: Countries/Areas Covered by the Data Set.</em>
 </p>
 
 - **Tree Cover Gain Area Map:** 
@@ -159,7 +167,7 @@ Displays the tree cover gain area (in hectares) for each country from 2000 to 20
   <img src="Insight/Geospatial_View_Static.png" alt="Sample Image" width="800"/>
 </p>
 <p align="center">
-  <em>Figure 14: Global Tree Cover Gain Area.</em>
+  <em>Figure 15: Global Tree Cover Gain Area.</em>
 </p>
 
 ## Future Research Directions
