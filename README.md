@@ -13,7 +13,7 @@ This project aims to visualize and analyze global tree cover gain from 2000 to 2
 This project leverages geospatial analysis to explore tree cover dynamics, which are directly relevant to sustainability goals. The integration of these insights into decentralized economies (DePin) and the metaverse creates opportunities for innovative solutions and broader public engagement in environmental conservation efforts.
 
 <p align="center">
-  <img src="Insight/Flowcharts.png" alt="Sample Image" width="500"/>
+  <img src="Insight/Flowcharts.png" alt="Sample Image" width="350"/>
 </p>
 <p align="center">
   <em>Figure 1: Flowchart of the project.</em>
