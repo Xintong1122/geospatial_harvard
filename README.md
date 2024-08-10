@@ -13,7 +13,10 @@ The project leverages geospatial analysis to explore tree cover dynamics, which 
   <em>Figure 1: Flowchart of the project.</em>
 </p>
 
-## Research Qustions
+## Litrature Review
+Previous studies using the Global Forest Watch dataset, such as those by Hansen et al. (2013) and Potapov et al. (2022), have extensively analyzed global forest cover loss, deforestation trends, and tree cover change dynamics. These works have provided critical insights into forest degradation and the factors driving deforestation. However, there is a gap in literature focusing specifically on tree cover gain, particularly in relation to its spatial distribution and its implications for sustainability. This study addresses this gap by concentrating on global tree cover gain from 2000 to 2020, offering new perspectives on reforestation and natural regrowth efforts.
+
+## Research Questions
 - Which countries or regions have experienced the most significant tree cover gain between 2000 and 2020?
 - What is the distribution of tree cover gain across different countries, and how does it relate to the overall forest cover present in 2000?
 
@@ -181,6 +184,10 @@ This research can be further expanded to better serve the theme "Create a Data S
 - **DePin and Tokeneconomy:** Decentralized Physical Infrastructures (DePin) and tokeneconomies can incentivize and fund reforestation projects, conservation efforts, and sustainable land use practices. By leveraging blockchain technology and digital assets, these models can create transparent, verifiable, and scalable mechanisms for promoting environmental stewardship.
 - **Metaverse and Social Good:** In the metaverse, geospatial data and virtual simulations can be used to raise awareness, educate, and engage communities in environmental conservation efforts. Virtual representations of forest cover data can serve as powerful tools in advocating for policies that promote sustainability and responsible land management.
 
+## References
+
+- Hansen, M. C., et al. (2013). High-Resolution Global Maps of 21st-Century Forest Cover Change. Science, 342(6160), 850-853. https://doi.org/10.1126/science.1244693
+- Potapov, P., et al. (2022). The Global 2000-2020 Land Cover and Land Use Change Dataset Derived From the Landsat Archive: First Results. Frontiers in Remote Sensing, 3, 856903. https://doi.org/10.3389/frsen.2022.856903
 
 
 
