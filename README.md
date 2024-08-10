@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to visualize and analyze global tree cover gain from 2000 to 2020, providing insights into forest dynamics and their environmental impacts. The relationship between forest cover and the theme of "Create a Data Science Workflow in the Metaverse of DePin: Tokeneconomy and Geospatial Analysis for Social Good and Sustainability" is rooted in the intersection of environmental data, decentralized technologies, and sustainable development.
+Our project aims to visualize and analyze global tree cover gain from 2000 to 2020, providing insights into forest dynamics and their environmental impacts. The relationship between forest cover and the theme of "Create a Data Science Workflow in the Metaverse of DePin: Tokeneconomy and Geospatial Analysis for Social Good and Sustainability" is rooted in the intersection of environmental data, decentralized technologies, and sustainable development.
 
 The project leverages geospatial analysis to explore tree cover dynamics, which are directly relevant to sustainability goals. The integration of these insights into decentralized economies (DePin) and the metaverse creates opportunities for innovative solutions and broader public engagement in environmental conservation efforts.
 
@@ -14,7 +14,7 @@ The project leverages geospatial analysis to explore tree cover dynamics, which 
 </p>
 
 ## Litrature Review
-Previous studies using the Global Forest Watch dataset, such as those by Hansen et al. (2013) and Potapov et al. (2022), have extensively analyzed global forest cover loss, deforestation trends, and tree cover change dynamics. These works have provided critical insights into forest degradation and the factors driving deforestation. However, there is a gap in literature focusing specifically on tree cover gain, particularly in relation to its spatial distribution and its implications for sustainability. This study addresses this gap by concentrating on global tree cover gain from 2000 to 2020, offering new perspectives on reforestation and natural regrowth efforts.
+Previous studies using the Global Forest Watch dataset, such as those by Hansen et al. (2013) and Potapov et al. (2022), have extensively analyzed global forest cover loss, deforestation trends, and tree cover change dynamics. These works have provided critical insights into forest degradation and the factors driving deforestation. However, there is a gap in literature focusing specifically on tree cover gain, particularly in relation to its spatial distribution and its implications for sustainability. Our study addresses this gap by concentrating on global tree cover gain from 2000 to 2020, offering new perspectives on reforestation and natural regrowth efforts.
 
 ## Research Questions
 - Which countries or regions have experienced the most significant tree cover gain between 2000 and 2020?
@@ -23,7 +23,7 @@ Previous studies using the Global Forest Watch dataset, such as those by Hansen 
 ## Data Description
 
 ### Meta Data Infomation
-The dataset used in this study was developed by the Global Land Analysis & Discovery (GLAD) lab at the University of Maryland. It utilizes NASA GEDI lidar measurements and Landsat time-series data to assess global tree cover gain from 2000 to 2020. The data has a resolution of 30 × 30 meters, providing detailed information on a global scale.
+The dataset used in our study was developed by the Global Land Analysis & Discovery (GLAD) lab at the University of Maryland. It utilizes NASA GEDI lidar measurements and Landsat time-series data to assess global tree cover gain from 2000 to 2020. The data has a resolution of 30 × 30 meters, providing detailed information on a global scale.
 Data Sources from Global Forest Watch: https://www.globalforestwatch.org/dashboards/global/
 
 ### Data Dictionary
@@ -178,7 +178,7 @@ Based on the visualizations, several conclusions can be drawn:
 - **Global Disparities in Forest Recovery:** The visualizations demonstrate that tree cover gain is not evenly distributed globally. Some regions have experienced substantial growth, while others show minimal or no gain, pointing to potential disparities in reforestation efforts, ecological conditions, or land use practices.
 
 ## Future Research Directions
-This research can be further expanded to better serve the theme "Create a Data Science Workflow in the Metaverse of DePin: Tokeneconomy and Geospatial Analysis for Social Good and Sustainability." Potential directions include:
+Our research can be further expanded to better serve the theme "Create a Data Science Workflow in the Metaverse of DePin: Tokeneconomy and Geospatial Analysis for Social Good and Sustainability." Potential directions include:
 
 - **Geospatial Analysis for Sustainability:** Forests play a critical role in carbon sequestration, biodiversity preservation, and ecosystem services, all of which are vital for sustainable development. By analyzing global tree cover gain, this project contributes to a better understanding of how natural resources are being managed and how their conservation can be optimized. This aligns with the broader goals of sustainability within decentralized initiatives.
 - **DePin and Tokeneconomy:** Decentralized Physical Infrastructures (DePin) and tokeneconomies can incentivize and fund reforestation projects, conservation efforts, and sustainable land use practices. By leveraging blockchain technology and digital assets, these models can create transparent, verifiable, and scalable mechanisms for promoting environmental stewardship.
