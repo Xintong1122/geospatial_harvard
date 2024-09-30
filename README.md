@@ -21,6 +21,7 @@ Open PowerPoint Link: https://www.canva.com/design/DAGQ80i775I/EtfCUbqTt7LDwSduM
 
 ## Program Information
 The Spatial Data Lab (SDL) internship program is designed to provide an academic learning experience for high school, undergraduate, and graduate students. It offers tailored professional training based on a student’s academic or career interests. This internship will provide hands-on experience in utilizing open-source tools, workflow technology, geospatial data, spatial modeling, and their applications across different fields. An internship gives a student the opportunity to experience the entire life-cycle of academic research, gain hands-on experience in cutting-edge technologies, explore career directions, and develop technical skills as well as leadership abilities.
+
 **Link:** https://sdl.gis.harvard.edu/
 
 ## Litrature Review
