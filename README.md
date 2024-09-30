@@ -190,7 +190,7 @@ Our research can be further expanded to better serve the theme "Create a Data Sc
 - Potapov, P., et al. (2022). The Global 2000-2020 Land Cover and Land Use Change Dataset Derived From the Landsat Archive: First Results. Frontiers in Remote Sensing, 3, 856903. https://doi.org/10.3389/frsen.2022.856903
 
 ## Author Information
-<img src="Insight/Geospatial_View_Static.png" alt="Sample Image" width="800"/>
+<img src="Insight/Xintong_Wu_headshot.jpg" alt="Sample Image" width="300"/>
 
 Xintong Wu is a student in the Class of 2025 at Duke Kunshan University, majoring in Computation and Design / Computer Science. Her research areas are digital design, digital market research, and the metaverse. She hopes to delve into the dynamic interactions between technology and society in the future Web 3.0 era and explore the infinite possibilities that technology can bring. 
 
