@@ -4,7 +4,9 @@
 
 Our project aims to visualize and analyze global tree cover gain from 2000 to 2020, providing insights into forest dynamics and their environmental impacts. The relationship between forest cover and the theme of "Create a Data Science Workflow in the Metaverse of DePin: Tokeneconomy and Geospatial Analysis for Social Good and Sustainability" is rooted in the intersection of environmental data, decentralized technologies, and sustainable development.
 
-The project leverages geospatial analysis to explore tree cover dynamics, which are directly relevant to sustainability goals. The integration of these insights into decentralized economies (DePin) and the metaverse creates opportunities for innovative solutions and broader public engagement in environmental conservation efforts.
+The project leverages geospatial analysis to explore tree cover dynamics, which are directly relevant to sustainability goals. Integrating these insights into decentralized economies (DePin) and the metaverse creates opportunities for innovative solutions and broader public engagement in environmental conservation efforts.
+
+Open PowerPoint Link: https://www.canva.com/design/DAGQ80i775I/EtfCUbqTt7LDwSduMGZC3Q/edit?utm_content=DAGQ80i775I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <p align="center">
   <img src="Insight/Flowcharts.png" alt="Sample Image" width="350"/>
@@ -12,6 +14,14 @@ The project leverages geospatial analysis to explore tree cover dynamics, which 
 <p align="center">
   <em>Figure 1: Flowchart of the project.</em>
 </p>
+
+## Author(s) Information
+- **Author:** Xintong Wu, majoring in Computation and Design/ Computer Science, Duke Kunshan University, Class of 2025.
+- **Mentors:** Prof. Luyao Zhang, Duke Kunshan University. Prof. Xiao Huang, Emory University.
+
+## Program Information
+The Spatial Data Lab (SDL) internship program is designed to provide an academic learning experience for high school, undergraduate, and graduate students. It offers tailored professional training based on a student’s academic or career interests. This internship will provide hands-on experience in utilizing open-source tools, workflow technology, geospatial data, spatial modeling, and their applications across different fields. An internship gives a student the opportunity to experience the entire life-cycle of academic research, gain hands-on experience in cutting-edge technologies, explore career directions, and develop technical skills as well as leadership abilities.
+**Link:** https://sdl.gis.harvard.edu/
 
 ## Litrature Review
 Previous studies using the Global Forest Watch dataset, such as those by Hansen et al. (2013) and Potapov et al. (2022), have extensively analyzed global forest cover loss, deforestation trends, and tree cover change dynamics. These works have provided critical insights into forest degradation and the factors driving deforestation. However, there is a gap in literature focusing specifically on tree cover gain, particularly in relation to its spatial distribution and its implications for sustainability. Our study addresses this gap by concentrating on global tree cover gain from 2000 to 2020, offering new perspectives on reforestation and natural regrowth efforts.
@@ -189,10 +199,14 @@ Our research can be further expanded to better serve the theme "Create a Data Sc
 - Hansen, M. C., et al. (2013). High-Resolution Global Maps of 21st-Century Forest Cover Change. Science, 342(6160), 850-853. https://doi.org/10.1126/science.1244693
 - Potapov, P., et al. (2022). The Global 2000-2020 Land Cover and Land Use Change Dataset Derived From the Landsat Archive: First Results. Frontiers in Remote Sensing, 3, 856903. https://doi.org/10.3389/frsen.2022.856903
 
-## Author Information
+## Author(s) Information
 <img src="Insight/Xintong_Wu_headshot.jpg" alt="Sample Image" width="300"/>
 
 Xintong Wu is a student in the Class of 2025 at Duke Kunshan University, majoring in Computation and Design / Computer Science. Her research areas are digital design, digital market research, and the metaverse. She hopes to delve into the dynamic interactions between technology and society in the future Web 3.0 era and explore the infinite possibilities that technology can bring. 
+
+### Mentors
+- Luyao Zhang
+- Xiao Huang
 
 
 
